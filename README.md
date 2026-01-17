@@ -1,7 +1,7 @@
 # Automated Pothole Quantifier
 
 ## Result
-![Demo Result](demo_result.png)
+![Demo Result](results_demo.png)
 *Automated detection and area measurement of road defects.*
 
 ## Overview
